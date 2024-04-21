@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tamanna
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning C,C++,JAVA
+- 🌱 I’m currently learning C,C++,JAVA,PYTHON
 - 😄 Pronouns:Her
 
 
